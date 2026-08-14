@@ -1,7 +1,7 @@
 
 # **Hi, welcome to my**
 
-<img width="1798" height="1008" alt="showtitle" src="https://github.com/user-attachments/assets/6197d567-c851-4314-a236-280c8101e87b" />
+<img width="2568" height="1439" alt="showtitle" src="https://github.com/user-attachments/assets/a32d86a7-7a9c-41cd-a799-a05c3a7ea6ab" />
 
 ---
 
@@ -9,7 +9,7 @@ This is just a little showcase of some unfinished projects that I consider notew
 All of these prototypes were made using Godot engine and coded with GDScript.  
 These are not all projects that I worked on, just a small look at some that I think pushed me forward with my skills.  
 
-Also excuse the sometimes stupid code names, didn't think I would showcase these games to someone :)
+Also excuse the juvenile code names, made some long time ago, didn't think I would showcase these to someone :)
 
 ---
 
@@ -58,7 +58,7 @@ Also also... I experimented with a somewhat complex movement physics with accele
 <img width="1919" height="1079" alt="Screenshot 2026-08-13 144747" src="https://github.com/user-attachments/assets/4a6c901f-be55-498f-ad17-d511643440ba" />  
 
   
-# **Zeptans**  
+# **Zeptrans**  
 In this game, I again tried to connect smaller levels with big procedural world.
 <img width="2568" height="1439" alt="Screenshot 2026-08-14 123251" src="https://github.com/user-attachments/assets/e5cd5e01-709d-4565-98c7-b83b0f4da61e" />
   
@@ -120,8 +120,8 @@ Now I'm trying to implement a system that guides the character using several vie
   - normal view
     
 With these, I'm making a more dynamic system, with which a character can navigate any environment, without any baked Navigation.
+<img width="1630" height="878" alt="Screenshot 2026-08-14 162023" src="https://github.com/user-attachments/assets/27afa8fb-5bbf-4de9-909d-89c9893c6359" />
 
-<img width="1919" height="1079" alt="Screenshot 2026-08-13 143839" src="https://github.com/user-attachments/assets/a5b6e543-e2bc-42bf-861e-3fcb1bc5ee5d" />
 <img width="1318" height="1292" alt="Screenshot 2026-04-21 174135" src="https://github.com/user-attachments/assets/35ae0a57-3c2b-4c11-b1d2-153a5b1f98b8" />
 <img width="1919" height="1079" alt="Screenshot 2026-08-13 144215" src="https://github.com/user-attachments/assets/1c8f17d6-203f-40f0-8325-fb28e95848b4" />
 
