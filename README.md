@@ -5,7 +5,7 @@
 
 ---
 
-This is just a little showcase of some unfinished projects that I consider noteworthy for my development.  
+This is just a little showcase of some unfinished projects that I consider noteworthy for my development as a programmer.  
 All of these prototypes were made using Godot engine and coded with GDScript.  
 These are not all projects that I worked on, just a small look at some that I think pushed me forward with my skills.  
 
@@ -76,7 +76,7 @@ This project is most important to me, as for the technical side of things. Here 
 
 
 # **Citadel isometric terrain test**  
-Here I experimented with voxel terrain.
+Here I experimented with voxel terrain.  
 The 1st 2 pictures run completely in a 2D engine, using isometric sprites. 
 <img width="1165" height="992" alt="Screenshot 2025-04-12 044002" src="https://github.com/user-attachments/assets/a7c33af1-8e0a-4b89-adb9-76eaf98b458b" />
 <img width="1521" height="1185" alt="Screenshot 2025-05-02 125929" src="https://github.com/user-attachments/assets/e36b5f71-cd9f-4028-b20c-3f1d2242256a" />
@@ -84,23 +84,43 @@ The 1st 2 pictures run completely in a 2D engine, using isometric sprites.
 
 
 # **Procedural animation experiments**  
-
+Some experimentation with bone based animation, procedural/dynamic animation, IK etc...  
+This was made, as a compensation for my lack of skill as an actual animator.
 <img width="669" height="671" alt="Screenshot 2024-12-03 122850" src="https://github.com/user-attachments/assets/05851f73-777f-4229-a84a-c8fc72c9d9b3" />
 <img width="642" height="410" alt="Screenshot 2026-08-13 145319" src="https://github.com/user-attachments/assets/53f2f541-28a8-49c5-aa68-8a1d6a96a411" />
 
 # **Orbital puzzle + Space requiem**  
+Here I tried to create a physics system, completely dependent on a gravitational equations.  
+Later I settled on Kepler calculations, as they were more predictable.
 <img width="744" height="559" alt="Screenshot 2025-02-14 204409" src="https://github.com/user-attachments/assets/1cddd2a4-13d2-4e21-a02f-b608a60948d3" />
-<img width="1919" height="1079" alt="Screenshot 2026-08-13 144930" src="https://github.com/user-attachments/assets/2eebbc2f-784d-44a9-93f0-3f5a2c86799a" />
+<img width="1919" height="1079" alt="Screenshot 2026-08-13 144930" src="https://github.com/user-attachments/assets/2eebbc2f-784d-44a9-93f0-3f5a2c86799a" />  
+  
+Here I made basically the same thing in 3D (using the gravitational equations, not the Kepler ones).
 <img width="980" height="1003" alt="Screenshot 2026-08-14 143112" src="https://github.com/user-attachments/assets/59003a4a-1837-45d7-8c83-42b748475b8a" />
 
 
 # **Assylum**  
+My latest project, that is still in development.  
+The most noteworthy technical things about this are:  
+  - custom building generation
+  - enemy AI
 <img width="1919" height="1079" alt="Screenshot 2026-08-13 144038" src="https://github.com/user-attachments/assets/864dda0d-700f-49d9-bc1c-3997214005a2" />
+Here you can see how the 2D build plan can dynamically generate a 3D building.
 <img width="1919" height="1079" alt="Screenshot 2026-08-13 144150" src="https://github.com/user-attachments/assets/543d769f-ea94-47fd-97cb-29caceb4564f" />
+The rooms aren't made from prefabricated models. Every wall is generated separately.
 <img width="1919" height="1079" alt="Screenshot 2026-08-13 144201" src="https://github.com/user-attachments/assets/fe170b0f-887b-4ded-bcf3-19c4f68fc73d" />
+  
+With the AI, first I tried using a Navmesh style of navigation. The problem was the static nature of this system.
+<img width="1402" height="1173" alt="Screenshot 2026-04-21 173932" src="https://github.com/user-attachments/assets/db1a490a-80c8-4a4f-918d-d9b98142c87c" />  
 
+Now I'm trying to implement a system that guides the character using several viewports.
+  - lighting view
+  - object/character view
+  - depth view
+  - normal view
+    
+With these, I'm making a more dynamic system, with which a character can navigate any environment, without any baked Navigation.
 
-<img width="1402" height="1173" alt="Screenshot 2026-04-21 173932" src="https://github.com/user-attachments/assets/db1a490a-80c8-4a4f-918d-d9b98142c87c" />
 <img width="1919" height="1079" alt="Screenshot 2026-08-13 143839" src="https://github.com/user-attachments/assets/a5b6e543-e2bc-42bf-861e-3fcb1bc5ee5d" />
 <img width="1318" height="1292" alt="Screenshot 2026-04-21 174135" src="https://github.com/user-attachments/assets/35ae0a57-3c2b-4c11-b1d2-153a5b1f98b8" />
 <img width="1919" height="1079" alt="Screenshot 2026-08-13 144215" src="https://github.com/user-attachments/assets/1c8f17d6-203f-40f0-8325-fb28e95848b4" />
