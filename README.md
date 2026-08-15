@@ -12,16 +12,6 @@ These are not all projects that I worked on, just a small look at some that I th
 Also excuse the juvenile code names, made some long time ago, didn't think I would showcase these to someone :)
 
 ---
-
-  
-# **PPP - Planetary Procrastination Project**  
-This is the 2nd game project that I've made, and the 1st that included some procedural generation (altho in a very crude form).  
-Basically the idea was to generate a galaxy of planets containing different layers of materials.
-<img width="800" height="500" alt="Screenshot 2026-08-14 140259" src="https://github.com/user-attachments/assets/a8a9c73d-7f95-4e35-9601-0e309fcea56d" />
-<img width="784" height="692" alt="Screenshot 2026-08-14 140236" src="https://github.com/user-attachments/assets/f8977cb8-16aa-4fe0-8003-3001e53d06c0" />
-<img width="600" height="400" alt="Screenshot 2026-08-14 140226" src="https://github.com/user-attachments/assets/6b786f67-14ce-41a8-9da7-70cff1dfc9c5" />
-<img width="650" height="400" alt="Screenshot 2026-08-14 140207" src="https://github.com/user-attachments/assets/acf34c89-bf1b-4525-997e-0bc72881b2b8" />  
-
   
 # **Oposilation**  
 Here, the idea was to create a PVP game where players shoot each other across the map.
